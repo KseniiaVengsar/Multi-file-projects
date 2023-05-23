@@ -1,2 +1,0 @@
-C:/Users/ksana/source/repos/COPY-Hierarchy of classes/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/ksana/source/repos/COPY-Hierarchy of classes/build/CMakeFiles/ZERO_CHECK.dir
